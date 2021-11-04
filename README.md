@@ -7,4 +7,10 @@ Why we need resolve conflicts ?
 
 
 
-end section
+end section 1
+
+Session 2:
+
+Learning about merge conflicts 
+
+end session 2
